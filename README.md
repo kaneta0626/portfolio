@@ -16,6 +16,6 @@
 
 ## コードブロック
 
-これは Code block within a line　です。
+これは Code block within a line です。
 
->
+// 独立したコードブロック
