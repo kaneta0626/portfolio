@@ -16,6 +16,7 @@
 
 ## コードブロック
 
-これは Code block within a line です。
+これは ``` Code block within a line ``` です。
 
-``` // 独立したコードブロック ```
+``` // 独立したコードブロック
+string a = "これはC#(CS)書式の独立したコードブロックです。";
