@@ -27,7 +27,7 @@
 ## 作品リスト
 
 ### 作品名1
-![スクリーンショット 2022-01-05 153112](https://user-images.githubusercontent.com/82490736/150073924-66200fe3-04ac-4354-9f26-770840e6ba31.png)
+
 
 
 [焼き餅から漢字](https://github.com/kaneta0626/syougatu)
