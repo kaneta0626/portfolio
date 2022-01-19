@@ -29,7 +29,7 @@
 ### 作品名1
 [<img src="images/game1.png" alt="作品名1" style="height: 360px">]()
 
-[作品名1]()
+[焼き餅から漢字](https://github.com/kaneta0626/syougatu)
 
 作品概要
 
