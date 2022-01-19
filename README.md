@@ -8,4 +8,14 @@
 
 ## 書式
 
-**太字**
+**太字 Bold**
+
+*斜体 Italic*
+
+~~打消し線 Strikethrough~~
+
+## コードブロック
+
+これは Code block within a line　です。
+
+>
