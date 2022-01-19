@@ -28,8 +28,7 @@
 
 ### 焼き餅から漢字
 
-
-![スクリーンショット 2022-01-05 152927](https://user-images.githubusercontent.com/82490736/150074423-0e465720-a04e-4f24-9fe2-38bf09e1328a.png)
+![hyy2ZKtE7OJ0BPr50CyG1642573129-1642573197](https://user-images.githubusercontent.com/82490736/150075393-057e1ecd-f508-4d01-9392-da5c08dc422c.gif)
 
 [焼き餅から漢字](https://github.com/kaneta0626/syougatu)
 
