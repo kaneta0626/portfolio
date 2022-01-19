@@ -28,16 +28,8 @@
 
 ### 作品名1
 
-![スクリーンショット 2022-01-05 152927](https://user-images.githubusercontent.com/82490736/150074203-f1d36e82-7544-461b-823d-14bff3ea7376.png)
 
-
-![スクリーンショット 2022-01-06 102448](https://user-images.githubusercontent.com/82490736/150074139-9ba710d5-2138-4f8a-b585-983abb753193.png)
-
-
-![スクリーンショット 2022-01-06 102635](https://user-images.githubusercontent.com/82490736/150074235-494f7b00-424c-4c5a-9aec-75108226c597.png)
-
-![スクリーンショット 2022-01-06 102733](https://user-images.githubusercontent.com/82490736/150074262-07e5ced5-cd45-49cf-ae4b-12fb0a1aeb6f.png)
-
+![スクリーンショット 2022-01-05 152927](https://user-images.githubusercontent.com/82490736/150074423-0e465720-a04e-4f24-9fe2-38bf09e1328a.png)
 
 [焼き餅から漢字](https://github.com/kaneta0626/syougatu)
 
