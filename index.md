@@ -27,8 +27,7 @@
 ## 作品リスト
 
 ### 焼き餅から漢字
-
-![hyy2ZKtE7OJ0BPr50CyG1642573129-1642573197](https://user-images.githubusercontent.com/82490736/150075393-057e1ecd-f508-4d01-9392-da5c08dc422c.gif)
+![3gJy7M0fllCfwoDLh86e1642639553-1642639589](https://user-images.githubusercontent.com/82490736/150241940-101d68ff-dfcc-4e68-b20f-547457667946.gif)
 
 [焼き餅から漢字](https://github.com/kaneta0626/syougatu)
 
