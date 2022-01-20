@@ -30,6 +30,14 @@
 ### 焼き餅から漢字
 ![HMN62nvzn8Raqm6WGe851642641650-1642642491](https://user-images.githubusercontent.com/82490736/150246386-237b7812-1c57-4101-a75a-7d75a6d7e938.gif)
 
+ゲームシーン
+![スクリーンショット 2022-01-20 103708](https://user-images.githubusercontent.com/82490736/150246724-7c233f98-aceb-4768-84d3-6e5d0140c85c.png)
+
+クリアシーン![スクリーンショット 2022-01-20 103823](https://user-images.githubusercontent.com/82490736/150246916-f0a5c88e-2aad-43c3-8a6d-9c03b724b800.png)
+
+不正解シーン
+![スクリーンショット 2022-01-20 103741](https://user-images.githubusercontent.com/82490736/150246796-bf629e51-6626-4ab9-9570-d44ae1cf3aaa.png)
+
 [焼き餅から漢字](https://github.com/kaneta0626/syougatu)
 
 #### 公開リンク
