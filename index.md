@@ -73,7 +73,7 @@ https://cluster.mu/w/ff53de95-bd5a-4828-8a45-783a5b19961b
 - 開発期間：１ヵ月程度
 
 ### 企画案
-https://docs.google.com/presentation/d/1oUIJqR8R1YSUdy7JqeoUZlSQOFn8MjQ0toVrQTd5Z58/edit#slide=id.g10ca0ab74cd_0_422
+https://docs.google.com/presentation/d/1oUIJqR8R1YSUdy7JqeoUZlSQOFn8MjQ0toVrQTd5Z58/edit#slide=id.p
 
 
 ## 連絡先
