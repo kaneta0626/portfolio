@@ -1,7 +1,7 @@
 # Portfolio
 
 - 金田莉旺
-- 連絡先 kaneta.Dat21@gmail.com
+- 連絡先 kaneta.at21@gmail.com
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2023年卒業予定
 
 ## 資格
@@ -76,4 +76,4 @@ https://cluster.mu/w/ff53de95-bd5a-4828-8a45-783a5b19961b
 ### 企画案
 
 ## 連絡先
-- E-mail kaneta.Dat21@gmail.com
+- E-mail kaneta.dat21@gmail.com
