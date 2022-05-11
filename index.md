@@ -7,6 +7,7 @@
 ## 資格
 
 -Microsoft Office Specialist Word 365&2019 合格
+
 -現在はExcel習得に力を入れています。
 
 ## スキル
