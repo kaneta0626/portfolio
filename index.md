@@ -9,16 +9,17 @@
 -Microsoft Office Specialist Word 365&2019 
 
 ## スキル
-- C#
-  - 利用歴 1年
 - Unity
   - 利用歴 1年
 - C/C++
   - 利用歴 1年
 - cluster
   - 利用歴 1年
+
+###触ったことのあるもの
+- ティラノビルダー
+- Webプログラミング
 - Java
-  - 利用歴　1か月程度  
 
 ## 企画案
 [音ゲー.pdf](https://github.com/kaneta0626/portfolio/files/8666821/default.pdf)
