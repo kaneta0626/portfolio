@@ -6,7 +6,9 @@
 
 ## 資格
 
--Microsoft Office Specialist Word 365&2019 
+- Microsoft Office Specialist Word 365&2019 
+- ビジネス能力検定3級
+- 英検準2級
 
 ## スキル
 - Unity
