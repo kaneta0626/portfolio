@@ -22,11 +22,11 @@
 - Java
 
 ## 企画案
-[音ゲー.pdf](https://github.com/kaneta0626/portfolio/files/8666821/default.pdf)
+[8王子BEAT！！.pdf](https://github.com/kaneta0626/portfolio/files/8666945/8.BEAT.pdf)
 
-[8王子BEAT！！.pptx](https://github.com/kaneta0626/portfolio/files/8666842/8.BEAT.pptx)
+[音ゲー.pdf](https://github.com/kaneta0626/portfolio/files/8666954/default.pdf)
 
-[目潰し団地.pdf](https://github.com/kaneta0626/portfolio/files/8666868/default.pdf)
+[団地.pdf](https://github.com/kaneta0626/portfolio/files/8666961/default.pdf)
 
 
 ## 個人で取り組んでいること
