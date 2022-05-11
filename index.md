@@ -6,19 +6,20 @@
 
 ## 資格
 
+-Microsoft Office Specialist Word 365&2019 合格
 
 ## スキル
 - C#
   - 利用歴 年
   -
 - Unity
-  - 利用歴 年
+  - 利用歴 1年
   -
 - C/C++
-  - 利用歴 年
+  - 利用歴 1年
   -
 - cluster
-  - 利用歴 年
+  - 利用歴 1年
   -
 
 ## 取り組んでいるテーマ
@@ -73,8 +74,6 @@ https://cluster.mu/w/ff53de95-bd5a-4828-8a45-783a5b19961b
 - 開発期間：１ヵ月程度
 
 ### 企画案
-https://docs.google.com/presentation/d/1oUIJqR8R1YSUdy7JqeoUZlSQOFn8MjQ0toVrQTd5Z58/edit#slide=id.p
-
 
 ## 連絡先
 - E-mail kaneta.Dat21@gmail.com
