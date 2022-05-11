@@ -74,6 +74,8 @@ https://cluster.mu/w/ff53de95-bd5a-4828-8a45-783a5b19961b
 - 開発期間：１ヵ月程度
 
 ### 企画案
+[音ゲー.pdf](https://github.com/kaneta0626/portfolio/files/8666821/default.pdf)
+
 
 ## 連絡先
 - E-mail kaneta.dat21@gmail.com
