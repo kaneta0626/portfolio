@@ -75,7 +75,8 @@ https://cluster.mu/w/ff53de95-bd5a-4828-8a45-783a5b19961b
 
 ### 企画案
 [音ゲー.pdf](https://github.com/kaneta0626/portfolio/files/8666821/default.pdf)
-
+[8王子BEAT！！.pptx](https://github.com/kaneta0626/portfolio/files/8666842/8.BEAT.pptx)
+[目潰し団地.pdf](https://github.com/kaneta0626/portfolio/files/8666868/default.pdf)
 
 ## 連絡先
 - E-mail kaneta.dat21@gmail.com
