@@ -65,7 +65,7 @@
 - イラストは個人制作
 
 
-### 猫の深夜配信(製作途中)
+### 猫の深夜配信(開発途中)
 ![HMN62nvzn8Raqm6WGe851642641650-1642641671](https://user-images.githubusercontent.com/82490736/150245051-bbb925bc-ea76-4bf3-b0e8-fa214f852b9f.gif)
 
 #### 作品概要
