@@ -45,9 +45,6 @@
 
 [焼き餅から漢字](https://github.com/kaneta0626/syougatu)
 
-#### 公開リンク
-
-
 #### 作品概要
 
 - 開発環境：Unity2019 4.11
