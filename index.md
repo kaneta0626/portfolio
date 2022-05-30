@@ -61,8 +61,8 @@
 
 - 開発環境：Unity2019 4.11
 - 開発期間：1ヵ月程度
+- 遊び方：時間内に正しい漢字をクリックする
 - イラストは個人制作
-
 
 ### 猫の深夜配信(開発途中)
 ![HMN62nvzn8Raqm6WGe851642641650-1642641671](https://user-images.githubusercontent.com/82490736/150245051-bbb925bc-ea76-4bf3-b0e8-fa214f852b9f.gif)
@@ -83,6 +83,7 @@ https://cluster.mu/w/ff53de95-bd5a-4828-8a45-783a5b19961b
 
 - 開発環境：Unity2019 4.11
 - 開発期間：１ヵ月程度
+- 遊び方：駅構内を歩き回る
 
 ## 連絡先
 - E-mail kaneta.dat21@gmail.com
