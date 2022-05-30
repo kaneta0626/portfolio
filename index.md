@@ -27,7 +27,7 @@
 ## 企画案
 [8王子BEAT！！.pdf](https://github.com/kaneta0626/portfolio/files/8666945/8.BEAT.pdf)
 
-[音ゲー.pdf](https://github.com/kaneta0626/portfolio/files/8666954/default.pdf)
+[電脳８bit.pdf](https://github.com/kaneta0626/portfolio/files/8795434/bit.pdf)
 
 [団地.pdf](https://github.com/kaneta0626/portfolio/files/8666961/default.pdf)
 
