@@ -29,7 +29,7 @@
 
 [電脳８bit.pdf](https://github.com/kaneta0626/portfolio/files/8795434/bit.pdf)
 
-[団地.pdf](https://github.com/kaneta0626/portfolio/files/8666961/default.pdf)
+[目潰し団地からの脱出.pdf](https://github.com/kaneta0626/portfolio/files/8805837/default.pdf)
 
 [秘匿アクアリウム.pdf](https://github.com/kaneta0626/portfolio/files/8805828/default.pdf)
 
