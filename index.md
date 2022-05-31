@@ -31,6 +31,8 @@
 
 [団地.pdf](https://github.com/kaneta0626/portfolio/files/8666961/default.pdf)
 
+[秘匿アクアリウム.pdf](https://github.com/kaneta0626/portfolio/files/8805828/default.pdf)
+
 
 ## 個人で取り組んでいること
 - 企画書の作成
