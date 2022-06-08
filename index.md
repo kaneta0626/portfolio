@@ -18,11 +18,15 @@
   - 利用歴 1年
 - cluster
   - 利用歴 1年
+- Word
+- Excel
+- PowerPoint
 
 #### 学習スキル(その他)
 - ティラノビルダー
 - Webプログラミング
 - Java
+- VisualStudioCode
 
 ## 企画案
 [8王子BEAT！！.pdf](https://github.com/kaneta0626/portfolio/files/8666945/8.BEAT.pdf)
