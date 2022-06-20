@@ -71,6 +71,9 @@
 - 遊び方：時間内に正しい漢字をクリックする
 - イラストは個人制作
 
+#### 公開リンク
+https://unityroom.com/games/mochimochisyougatuu
+
 ### 猫の深夜配信(開発途中)
 ![HMN62nvzn8Raqm6WGe851642641650-1642641671](https://user-images.githubusercontent.com/82490736/150245051-bbb925bc-ea76-4bf3-b0e8-fa214f852b9f.gif)
 
